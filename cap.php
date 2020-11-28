@@ -4,7 +4,7 @@
 
 <link rel="stylesheet" type="text/css" href="acttheme/meek.css">
 
-<form  method="POST" action="cmqtpw.php">
+<form  method="POST" action="capw.php">
 
 <table style="width:100px">
   <tr>
@@ -21,7 +21,7 @@
 </tr>
 <tr>
     <th><input type="submit" value="Submit"></th>
-    <th>! MQTT Credentials !</th>
+    <th>! Admin Account !</th>
 </tr>
 </table>
 </form>

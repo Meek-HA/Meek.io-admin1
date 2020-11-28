@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<link rel="stylesheet" type="text/css" href="meek.css">
+<link rel="stylesheet" type="text/css" href="acttheme/meek.css">
 
 <form  method="POST" action="cupw.php">
 
