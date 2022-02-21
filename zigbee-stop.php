@@ -1,6 +1,6 @@
 <?php 
   
-    $myfile = fopen("command/zigbee-stop", "w") or die("Unable to open file!");
+    $myfile = fopen("command/zigbee2mqtt-stop", "w") or die("Unable to open file!");
 fwrite($myfile, $txt);
 fclose($myfile);
 
